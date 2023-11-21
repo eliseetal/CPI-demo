@@ -8,6 +8,8 @@ Files are as follows:
 
 The csv and npy files are used by digi_twin_interface.py to visualise patient ECGs and abnormal segments as identified by the model. 
 
+This app can be deployed on your own servers using streamlit, or using GitHub codespaces. 
+
 Questions can be emailed to kanberelise[at]gmail[dot]com 
 
 
